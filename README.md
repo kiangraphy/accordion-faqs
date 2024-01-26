@@ -1,4 +1,4 @@
-# Frontend Mentor - FAQ accordion
+# Frontend Mentor - FAQ accordion (Please read the README-templated.md)
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
