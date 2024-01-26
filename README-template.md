@@ -1,3 +1,5 @@
+https://accordion-faqs.vercel.app/
+
 What I have learned about this project is now I know how to build web project with accordion features which was dynamically to see. This could not be possible with embedding script(JS) file into it.
 
 
