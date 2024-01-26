@@ -1,4 +1,4 @@
-(Please read the README-templated.md)
+#(Please read the README-templated.md)
 
 ![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
 
