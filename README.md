@@ -1,8 +1,4 @@
-##(Please read the README-templated.md)
-
-![Design preview for the FAQ accordion coding challenge](./design/desktop-preview.jpg)
-
-## Welcome! 👋
+## Please read the README-template.md Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
